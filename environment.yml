@@ -2,35 +2,22 @@ name: polyominos
 channels:
   - cogsci
   - defaults
+  - conda-forge
 dependencies:
-  - _libgcc_mutex=0.1=main
-  - _openmp_mutex=5.1=1_gnu
-  - blas=1.0=mkl
-  - intel-openmp=2022.1.0=h9e868ea_3769
-  - ld_impl_linux-64=2.38=h1181459_1
-  - libffi=3.3=he6710b0_2
-  - libgcc-ng=11.2.0=h1234567_1
-  - libgfortran-ng=7.5.0=ha8ba4b0_17
-  - libgfortran4=7.5.0=ha8ba4b0_17
-  - libgomp=11.2.0=h1234567_1
-  - libstdcxx-ng=11.2.0=h1234567_1
-  - mkl=2018.0.3=1
-  - mkl_fft=1.0.6=py35h7dd41cf_0
-  - mkl_random=1.0.1=py35h4414c95_1
-  - ncurses=6.4=h6a678d5_0
-  - numpy=1.15.2=py35h1d66e8a_0
-  - numpy-base=1.15.2=py35h81de0dd_0
-  - openssl=1.1.1u=h7f8727e_0
-  - pip=10.0.1=py35_0
-  - pygame=1.9.2a0=py35_0
-  - python=3.5.6=h12debd9_1
-  - readline=8.2=h5eee18b_0
-  - setuptools=40.2.0=py35_0
-  - sqlite=3.41.2=h5eee18b_0
-  - tbb=2021.8.0=hdb19cb5_0
-  - tbb4py=2018.0.5=py35h6bb024c_0
-  - tk=8.6.12=h1ccaba5_0
-  - tzdata=2023c=h04d1e81_0
-  - wheel=0.37.1=pyhd3eb1b0_0
-  - xz=5.4.2=h5eee18b_0
-  - zlib=1.2.13=h5eee18b_0
+  - ncurses
+  - numpy
+  - numpy-base
+  - openssl
+  - pip
+  - pygame
+  - python
+  - readline
+  - setuptools
+  - sqlite
+  - tbb
+  - tbb4py
+  - tk
+  - tzdata
+  - wheel
+  - xz
+  - zlib
