@@ -8,6 +8,10 @@ First, create a conda environment via
 
   conda create -f environment.yml
 
+and activate it via
+
+  conda activate polyominos
+
 # Usage
 
 Run e.g.
