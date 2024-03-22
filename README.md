@@ -6,7 +6,7 @@ Simple python tool to creat polyominos, the generalization of dominos or tetromi
 
 First, create a conda environment via
 
-  conda create -f environment.yml
+  conda env create -f environment.yml
 
 and activate it via
 
