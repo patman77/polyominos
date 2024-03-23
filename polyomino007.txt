@@ -1,0 +1,1163 @@
+Number of unique polyominoes up to rotation: 196
+Unique Polyomino 1:
+■ ■   
+■     
+■ ■   
+  ■ ■ 
+
+Unique Polyomino 2:
+■ ■   
+  ■   
+  ■   
+  ■   
+  ■ ■ 
+
+Unique Polyomino 3:
+■ ■ 
+■   
+■   
+■ ■ 
+  ■ 
+
+Unique Polyomino 4:
+■ ■ ■     
+■   ■ ■ ■ 
+
+Unique Polyomino 5:
+■       
+■       
+■ ■ ■ ■ 
+  ■     
+
+Unique Polyomino 6:
+■ ■   
+■ ■   
+  ■ ■ 
+    ■ 
+
+Unique Polyomino 7:
+■ ■   
+  ■ ■ 
+■ ■   
+■     
+
+Unique Polyomino 8:
+■ ■ ■   
+■   ■ ■ 
+    ■   
+
+Unique Polyomino 9:
+■ ■   
+  ■   
+■ ■ ■ 
+  ■   
+
+Unique Polyomino 10:
+■ ■       
+  ■ ■ ■ ■ 
+  ■       
+
+Unique Polyomino 11:
+■ ■     
+  ■     
+  ■     
+  ■ ■ ■ 
+
+Unique Polyomino 12:
+■   
+■   
+■ ■ 
+  ■ 
+■ ■ 
+
+Unique Polyomino 13:
+■       
+■ ■     
+  ■ ■ ■ 
+      ■ 
+
+Unique Polyomino 14:
+■   
+■   
+■   
+■   
+■ ■ 
+■   
+
+Unique Polyomino 15:
+■     
+■ ■ ■ 
+■     
+■     
+■     
+
+Unique Polyomino 16:
+■ ■     
+■ ■     
+  ■ ■ ■ 
+
+Unique Polyomino 17:
+■     
+■ ■ ■ 
+■ ■   
+■     
+
+Unique Polyomino 18:
+■         
+■ ■ ■ ■ ■ 
+      ■   
+
+Unique Polyomino 19:
+■     
+■     
+■ ■ ■ 
+  ■ ■ 
+
+Unique Polyomino 20:
+■   ■ ■ 
+■ ■ ■   
+■       
+
+Unique Polyomino 21:
+■       
+■ ■ ■ ■ 
+■     ■ 
+
+Unique Polyomino 22:
+■       
+■ ■ ■ ■ 
+  ■ ■   
+
+Unique Polyomino 23:
+■ ■       
+  ■ ■     
+    ■ ■ ■ 
+
+Unique Polyomino 24:
+■     
+■     
+■ ■   
+■ ■ ■ 
+
+Unique Polyomino 25:
+■     ■ 
+■ ■ ■ ■ 
+    ■   
+
+Unique Polyomino 26:
+■     
+■ ■   
+  ■   
+  ■ ■ 
+    ■ 
+
+Unique Polyomino 27:
+■   
+■   
+■   
+■ ■ 
+■   
+■   
+
+Unique Polyomino 28:
+■     
+■     
+■     
+■     
+■ ■ ■ 
+
+Unique Polyomino 29:
+■ ■     
+  ■ ■ ■ 
+    ■   
+    ■   
+
+Unique Polyomino 30:
+■       
+■ ■     
+  ■     
+  ■ ■ ■ 
+
+Unique Polyomino 31:
+■ ■     
+  ■ ■   
+  ■ ■ ■ 
+
+Unique Polyomino 32:
+■ ■   
+  ■   
+  ■ ■ 
+  ■   
+  ■   
+
+Unique Polyomino 33:
+■     ■ 
+■ ■ ■ ■ 
+■       
+
+Unique Polyomino 34:
+■   
+■   
+■ ■ 
+■ ■ 
+■   
+
+Unique Polyomino 35:
+■ ■ 
+■   
+■   
+■   
+■ ■ 
+
+Unique Polyomino 36:
+■         
+■ ■ ■ ■   
+      ■ ■ 
+
+Unique Polyomino 37:
+■     
+■     
+■ ■   
+  ■ ■ 
+  ■   
+
+Unique Polyomino 38:
+■ ■ 
+■   
+■ ■ 
+■   
+■   
+
+Unique Polyomino 39:
+  ■     
+■ ■ ■ ■ 
+  ■     
+  ■     
+
+Unique Polyomino 40:
+■ ■ ■ 
+■   ■ 
+■     
+■     
+
+Unique Polyomino 41:
+■     
+■ ■   
+■ ■ ■ 
+  ■   
+
+Unique Polyomino 42:
+■       
+■       
+■ ■ ■   
+    ■ ■ 
+
+Unique Polyomino 43:
+■ ■ ■ 
+■     
+■ ■   
+  ■   
+
+Unique Polyomino 44:
+  ■     
+■ ■     
+  ■ ■ ■ 
+  ■     
+
+Unique Polyomino 45:
+■ ■ 
+■ ■ 
+■   
+■   
+■   
+
+Unique Polyomino 46:
+■       
+■ ■ ■   
+    ■ ■ 
+    ■   
+
+Unique Polyomino 47:
+■   
+■ ■ 
+■   
+■ ■ 
+  ■ 
+
+Unique Polyomino 48:
+■ ■ 
+■ ■ 
+■ ■ 
+■   
+
+Unique Polyomino 49:
+■ ■     
+■ ■ ■ ■ 
+  ■     
+
+Unique Polyomino 50:
+■ ■ ■ 
+■     
+■ ■   
+■     
+
+Unique Polyomino 51:
+■   ■ 
+■ ■ ■ 
+■   ■ 
+
+Unique Polyomino 52:
+  ■     
+■ ■ ■ ■ 
+    ■   
+    ■   
+
+Unique Polyomino 53:
+■ ■ ■ 
+■ ■   
+■ ■   
+
+Unique Polyomino 54:
+■ ■   
+■ ■   
+  ■   
+  ■ ■ 
+
+Unique Polyomino 55:
+■     
+■   ■ 
+■ ■ ■ 
+  ■   
+
+Unique Polyomino 56:
+■ ■ ■ ■   
+      ■ ■ 
+      ■   
+
+Unique Polyomino 57:
+■     ■ 
+■ ■ ■ ■ 
+  ■     
+
+Unique Polyomino 58:
+■ ■ 
+■   
+■ ■ 
+■ ■ 
+
+Unique Polyomino 59:
+■ ■   
+  ■ ■ 
+  ■ ■ 
+  ■   
+
+Unique Polyomino 60:
+■   ■ 
+■ ■ ■ 
+■     
+■     
+
+Unique Polyomino 61:
+■   
+■   
+■ ■ 
+■   
+■   
+■   
+
+Unique Polyomino 62:
+■     
+■ ■   
+  ■   
+  ■ ■ 
+  ■   
+
+Unique Polyomino 63:
+■         
+■ ■ ■     
+    ■ ■ ■ 
+
+Unique Polyomino 64:
+■ ■ ■       
+    ■ ■ ■ ■ 
+
+Unique Polyomino 65:
+    ■     
+■ ■ ■ ■ ■ 
+    ■     
+
+Unique Polyomino 66:
+■       
+■       
+■ ■ ■ ■ 
+    ■   
+
+Unique Polyomino 67:
+■     
+■ ■ ■ 
+■   ■ 
+    ■ 
+
+Unique Polyomino 68:
+■ ■ 
+■   
+■   
+■ ■ 
+■   
+
+Unique Polyomino 69:
+■ ■   
+■     
+■ ■ ■ 
+    ■ 
+
+Unique Polyomino 70:
+■     
+■ ■   
+■ ■   
+  ■ ■ 
+
+Unique Polyomino 71:
+■ ■         
+  ■ ■ ■ ■ ■ 
+
+Unique Polyomino 72:
+■     
+■ ■ ■ 
+  ■ ■ 
+  ■   
+
+Unique Polyomino 73:
+■         
+■ ■       
+  ■ ■ ■ ■ 
+
+Unique Polyomino 74:
+  ■   
+■ ■ ■ 
+■ ■   
+  ■   
+
+Unique Polyomino 75:
+■ ■ ■     
+    ■     
+    ■ ■ ■ 
+
+Unique Polyomino 76:
+■     
+■     
+■ ■ ■ 
+■ ■   
+
+Unique Polyomino 77:
+■ ■ ■ ■ 
+■       
+■       
+■       
+
+Unique Polyomino 78:
+■     
+■ ■ ■ 
+  ■   
+  ■ ■ 
+
+Unique Polyomino 79:
+■ ■     
+■ ■ ■ ■ 
+    ■   
+
+Unique Polyomino 80:
+■ ■ ■   
+■   ■ ■ 
+      ■ 
+
+Unique Polyomino 81:
+■ ■       
+  ■ ■ ■   
+      ■ ■ 
+
+Unique Polyomino 82:
+■     
+■     
+■     
+■ ■ ■ 
+  ■   
+
+Unique Polyomino 83:
+■       
+■ ■ ■   
+■   ■ ■ 
+
+Unique Polyomino 84:
+■   
+■ ■ 
+■   
+■   
+■   
+■   
+
+Unique Polyomino 85:
+■       
+■ ■ ■ ■ 
+■   ■   
+
+Unique Polyomino 86:
+■     
+■     
+■ ■ ■ 
+    ■ 
+    ■ 
+
+Unique Polyomino 87:
+■ ■   
+  ■   
+  ■   
+  ■ ■ 
+  ■   
+
+Unique Polyomino 88:
+■ ■   
+■ ■ ■ 
+  ■   
+  ■   
+
+Unique Polyomino 89:
+■     
+■     
+■ ■ ■ 
+■     
+■     
+
+Unique Polyomino 90:
+■   
+■   
+■   
+■ ■ 
+■ ■ 
+
+Unique Polyomino 91:
+■ ■ ■     
+  ■ ■ ■ ■ 
+
+Unique Polyomino 92:
+■       
+■ ■ ■ ■ 
+  ■   ■ 
+
+Unique Polyomino 93:
+■     
+■     
+■ ■   
+  ■ ■ 
+    ■ 
+
+Unique Polyomino 94:
+■     
+■     
+■ ■ ■ 
+■   ■ 
+
+Unique Polyomino 95:
+■ ■ ■   
+■   ■   
+    ■ ■ 
+
+Unique Polyomino 96:
+■ ■     
+  ■     
+  ■ ■ ■ 
+  ■     
+
+Unique Polyomino 97:
+■ ■ ■ 
+■ ■   
+■     
+■     
+
+Unique Polyomino 98:
+■     
+■ ■   
+  ■ ■ 
+  ■   
+  ■   
+
+Unique Polyomino 99:
+■ 
+■ 
+■ 
+■ 
+■ 
+■ 
+■ 
+
+Unique Polyomino 100:
+■ ■ 
+■ ■ 
+■   
+■ ■ 
+
+Unique Polyomino 101:
+■ ■   
+■     
+■     
+■ ■ ■ 
+
+Unique Polyomino 102:
+■ ■ ■   
+■   ■ ■ 
+■       
+
+Unique Polyomino 103:
+■ ■     
+■ ■ ■   
+    ■ ■ 
+
+Unique Polyomino 104:
+■ ■   
+■ ■ ■ 
+  ■ ■ 
+
+Unique Polyomino 105:
+■ ■   
+  ■ ■ 
+■ ■   
+  ■   
+
+Unique Polyomino 106:
+■ ■   
+■     
+■ ■ ■ 
+  ■   
+
+Unique Polyomino 107:
+■ ■ ■   
+    ■ ■ 
+    ■   
+    ■   
+
+Unique Polyomino 108:
+■       
+■       
+■ ■ ■ ■ 
+■       
+
+Unique Polyomino 109:
+■ ■   
+■ ■   
+  ■ ■ 
+  ■   
+
+Unique Polyomino 110:
+  ■     
+■ ■     
+  ■ ■ ■ 
+    ■   
+
+Unique Polyomino 111:
+■ ■ ■   
+  ■ ■ ■ 
+    ■   
+
+Unique Polyomino 112:
+■       
+■ ■ ■   
+  ■ ■ ■ 
+
+Unique Polyomino 113:
+■   
+■ ■ 
+  ■ 
+■ ■ 
+■   
+
+Unique Polyomino 114:
+■       
+■ ■     
+  ■ ■   
+    ■ ■ 
+
+Unique Polyomino 115:
+■   
+■ ■ 
+■   
+■ ■ 
+■   
+
+Unique Polyomino 116:
+■ ■   
+■ ■   
+■ ■ ■ 
+
+Unique Polyomino 117:
+■ ■   
+■     
+■ ■ ■ 
+■     
+
+Unique Polyomino 118:
+■ ■       
+  ■ ■ ■ ■ 
+      ■   
+
+Unique Polyomino 119:
+■     
+■     
+■     
+■ ■ ■ 
+    ■ 
+
+Unique Polyomino 120:
+■ ■     
+  ■ ■   
+    ■ ■ 
+    ■   
+
+Unique Polyomino 121:
+■     
+■ ■   
+■ ■ ■ 
+    ■ 
+
+Unique Polyomino 122:
+■ ■ ■ 
+■   ■ 
+■ ■   
+
+Unique Polyomino 123:
+■     
+■     
+■   ■ 
+■ ■ ■ 
+
+Unique Polyomino 124:
+■       
+■ ■ ■   
+    ■   
+    ■ ■ 
+
+Unique Polyomino 125:
+■ ■   
+  ■ ■ 
+  ■   
+  ■   
+  ■   
+
+Unique Polyomino 126:
+■     
+■     
+■ ■ ■ 
+  ■   
+  ■   
+
+Unique Polyomino 127:
+■   
+■   
+■   
+■   
+■   
+■ ■ 
+
+Unique Polyomino 128:
+■   
+■ ■ 
+■ ■ 
+■ ■ 
+
+Unique Polyomino 129:
+■ ■ ■   
+    ■   
+    ■ ■ 
+    ■   
+
+Unique Polyomino 130:
+■ ■     
+■ ■ ■ ■ 
+      ■ 
+
+Unique Polyomino 131:
+■ ■ ■ 
+■     
+■     
+■     
+■     
+
+Unique Polyomino 132:
+■       
+■       
+■ ■ ■ ■ 
+      ■ 
+
+Unique Polyomino 133:
+■     
+■   ■ 
+■ ■ ■ 
+■     
+
+Unique Polyomino 134:
+■ ■ ■   
+  ■     
+  ■ ■ ■ 
+
+Unique Polyomino 135:
+■ ■   
+■ ■ ■ 
+■ ■   
+
+Unique Polyomino 136:
+■ ■ ■ 
+■     
+■ ■ ■ 
+
+Unique Polyomino 137:
+■ ■     
+■ ■ ■ ■ 
+■       
+
+Unique Polyomino 138:
+■     
+■     
+■ ■   
+  ■   
+  ■ ■ 
+
+Unique Polyomino 139:
+■ ■   
+  ■   
+■ ■   
+  ■ ■ 
+
+Unique Polyomino 140:
+■ ■ ■ ■   
+  ■   ■ ■ 
+
+Unique Polyomino 141:
+■   
+■   
+■ ■ 
+■   
+■ ■ 
+
+Unique Polyomino 142:
+■   ■ 
+■ ■ ■ 
+■ ■   
+
+Unique Polyomino 143:
+■ ■ ■     
+    ■ ■ ■ 
+      ■   
+
+Unique Polyomino 144:
+■       
+■ ■ ■ ■ 
+    ■   
+    ■   
+
+Unique Polyomino 145:
+■   ■   
+■ ■ ■ ■ 
+  ■     
+
+Unique Polyomino 146:
+■   
+■   
+■ ■ 
+■ ■ 
+  ■ 
+
+Unique Polyomino 147:
+■       
+■       
+■ ■     
+  ■ ■ ■ 
+
+Unique Polyomino 148:
+■ ■     
+  ■ ■ ■ 
+  ■ ■   
+
+Unique Polyomino 149:
+  ■   
+■ ■   
+  ■   
+  ■ ■ 
+  ■   
+
+Unique Polyomino 150:
+■     
+■ ■   
+■     
+■ ■ ■ 
+
+Unique Polyomino 151:
+■         
+■ ■ ■ ■ ■ 
+        ■ 
+
+Unique Polyomino 152:
+■     
+■ ■ ■ 
+  ■   
+  ■   
+  ■   
+
+Unique Polyomino 153:
+■   ■   
+■ ■ ■   
+    ■ ■ 
+
+Unique Polyomino 154:
+■ ■       
+  ■ ■ ■ ■ 
+    ■     
+
+Unique Polyomino 155:
+■ ■   
+  ■   
+■ ■ ■ 
+■     
+
+Unique Polyomino 156:
+■   ■   
+■ ■ ■ ■ 
+    ■   
+
+Unique Polyomino 157:
+■       
+■ ■ ■ ■ 
+■       
+■       
+
+Unique Polyomino 158:
+■       
+■ ■ ■ ■ 
+■ ■     
+
+Unique Polyomino 159:
+■ ■ ■ 
+■     
+■     
+■ ■   
+
+Unique Polyomino 160:
+■ ■ ■   
+    ■ ■ 
+  ■ ■   
+
+Unique Polyomino 161:
+■ ■     
+  ■     
+  ■ ■ ■ 
+    ■   
+
+Unique Polyomino 162:
+■     
+■ ■ ■ 
+■   ■ 
+■     
+
+Unique Polyomino 163:
+■     
+■ ■   
+  ■   
+  ■   
+  ■ ■ 
+
+Unique Polyomino 164:
+■     
+■ ■ ■ 
+■     
+■ ■   
+
+Unique Polyomino 165:
+■ ■       
+  ■       
+  ■ ■ ■ ■ 
+
+Unique Polyomino 166:
+■     
+■ ■ ■ 
+  ■   
+■ ■   
+
+Unique Polyomino 167:
+  ■   
+■ ■ ■ 
+  ■   
+  ■   
+  ■   
+
+Unique Polyomino 168:
+■ ■ ■     
+    ■ ■ ■ 
+    ■     
+
+Unique Polyomino 169:
+■         
+■ ■ ■ ■ ■ 
+■         
+
+Unique Polyomino 170:
+■         
+■ ■ ■ ■ ■ 
+    ■     
+
+Unique Polyomino 171:
+  ■       
+■ ■ ■ ■ ■ 
+    ■     
+
+Unique Polyomino 172:
+■ ■ 
+■   
+■   
+■   
+■   
+■   
+
+Unique Polyomino 173:
+■       
+■ ■     
+  ■ ■ ■ 
+  ■     
+
+Unique Polyomino 174:
+■   ■   
+■ ■ ■ ■ 
+■       
+
+Unique Polyomino 175:
+■       
+■ ■ ■ ■ 
+  ■     
+  ■     
+
+Unique Polyomino 176:
+■   
+■   
+■   
+■ ■ 
+  ■ 
+  ■ 
+
+Unique Polyomino 177:
+■     
+■ ■ ■ 
+■ ■   
+  ■   
+
+Unique Polyomino 178:
+■ ■     
+  ■     
+  ■ ■   
+    ■ ■ 
+
+Unique Polyomino 179:
+■   
+■ ■ 
+■ ■ 
+■   
+■   
+
+Unique Polyomino 180:
+■     
+■     
+■     
+■ ■ ■ 
+■     
+
+Unique Polyomino 181:
+  ■   
+■ ■   
+■ ■ ■ 
+  ■   
+
+Unique Polyomino 182:
+■   
+■   
+■   
+■   
+■ ■ 
+  ■ 
+
+Unique Polyomino 183:
+■     
+■ ■   
+  ■ ■ 
+■ ■   
+
+Unique Polyomino 184:
+■ ■ ■   
+  ■ ■ ■ 
+  ■     
+
+Unique Polyomino 185:
+■   
+■ ■ 
+■   
+■   
+■ ■ 
+
+Unique Polyomino 186:
+■ ■   
+■ ■ ■ 
+■     
+■     
+
+Unique Polyomino 187:
+■   ■ 
+■ ■ ■ 
+  ■   
+  ■   
+
+Unique Polyomino 188:
+■         
+■ ■ ■ ■ ■ 
+  ■       
+
+Unique Polyomino 189:
+■ ■   
+■ ■ ■ 
+■   ■ 
+
+Unique Polyomino 190:
+  ■   
+■ ■   
+  ■ ■ 
+  ■   
+  ■   
+
+Unique Polyomino 191:
+■     
+■     
+■     
+■ ■   
+  ■ ■ 
+
+Unique Polyomino 192:
+■ ■ ■ ■   
+■     ■ ■ 
+
+Unique Polyomino 193:
+■     
+■ ■   
+■ ■ ■ 
+■     
+
+Unique Polyomino 194:
+■ ■     
+  ■ ■ ■ 
+  ■     
+  ■     
+
+Unique Polyomino 195:
+■       
+■ ■     
+  ■ ■ ■ 
+    ■   
+
+Unique Polyomino 196:
+  ■       
+■ ■ ■ ■ ■ 
+      ■   
+

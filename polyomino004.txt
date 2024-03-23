@@ -1,0 +1,35 @@
+Number of unique polyominoes up to rotation: 7
+Unique Polyomino 1:
+■ 
+■ 
+■ 
+■ 
+
+Unique Polyomino 2:
+■ ■ 
+■   
+■   
+
+Unique Polyomino 3:
+■ ■ 
+■ ■ 
+
+Unique Polyomino 4:
+■ ■   
+  ■ ■ 
+
+Unique Polyomino 5:
+■   
+■ ■ 
+■   
+
+Unique Polyomino 6:
+■   
+■ ■ 
+  ■ 
+
+Unique Polyomino 7:
+■   
+■   
+■ ■ 
+

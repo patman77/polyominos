@@ -1,0 +1,10 @@
+Number of unique polyominoes up to rotation: 2
+Unique Polyomino 1:
+■ ■ 
+■   
+
+Unique Polyomino 2:
+■ 
+■ 
+■ 
+

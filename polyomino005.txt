@@ -1,0 +1,97 @@
+Number of unique polyominoes up to rotation: 18
+Unique Polyomino 1:
+  ■   
+■ ■ ■ 
+  ■   
+
+Unique Polyomino 2:
+■     
+■ ■ ■ 
+  ■   
+
+Unique Polyomino 3:
+■ ■ ■ 
+■     
+■     
+
+Unique Polyomino 4:
+■ ■   
+  ■ ■ 
+  ■   
+
+Unique Polyomino 5:
+■     
+■ ■ ■ 
+■     
+
+Unique Polyomino 6:
+■ ■   
+  ■   
+  ■ ■ 
+
+Unique Polyomino 7:
+■ ■ 
+■ ■ 
+■   
+
+Unique Polyomino 8:
+■ ■ 
+■   
+■   
+■   
+
+Unique Polyomino 9:
+■     
+■ ■ ■ 
+    ■ 
+
+Unique Polyomino 10:
+■ 
+■ 
+■ 
+■ 
+■ 
+
+Unique Polyomino 11:
+■ ■     
+  ■ ■ ■ 
+
+Unique Polyomino 12:
+■     
+■ ■   
+  ■ ■ 
+
+Unique Polyomino 13:
+■ ■ 
+■   
+■ ■ 
+
+Unique Polyomino 14:
+■   
+■   
+■ ■ 
+■   
+
+Unique Polyomino 15:
+■   
+■ ■ 
+■   
+■   
+
+Unique Polyomino 16:
+■   
+■ ■ 
+■ ■ 
+
+Unique Polyomino 17:
+■   
+■   
+■   
+■ ■ 
+
+Unique Polyomino 18:
+■   
+■   
+■ ■ 
+  ■ 
+

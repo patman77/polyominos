@@ -1,0 +1,338 @@
+Number of unique polyominoes up to rotation: 60
+Unique Polyomino 1:
+■ ■   
+  ■   
+  ■   
+  ■ ■ 
+
+Unique Polyomino 2:
+■     
+■     
+■ ■   
+  ■ ■ 
+
+Unique Polyomino 3:
+■       
+■ ■ ■ ■ 
+    ■   
+
+Unique Polyomino 4:
+■ ■   
+■ ■ ■ 
+  ■   
+
+Unique Polyomino 5:
+■   
+■ ■ 
+■   
+■   
+■   
+
+Unique Polyomino 6:
+■ 
+■ 
+■ 
+■ 
+■ 
+■ 
+
+Unique Polyomino 7:
+■       
+■ ■ ■   
+    ■ ■ 
+
+Unique Polyomino 8:
+■ ■       
+  ■ ■ ■ ■ 
+
+Unique Polyomino 9:
+■ ■ ■ 
+■     
+■     
+■     
+
+Unique Polyomino 10:
+  ■   
+■ ■   
+  ■ ■ 
+  ■   
+
+Unique Polyomino 11:
+■ ■   
+  ■   
+  ■ ■ 
+  ■   
+
+Unique Polyomino 12:
+■   
+■   
+■   
+■ ■ 
+  ■ 
+
+Unique Polyomino 13:
+■ ■ 
+■   
+■   
+■ ■ 
+
+Unique Polyomino 14:
+■ ■ 
+■   
+■ ■ 
+  ■ 
+
+Unique Polyomino 15:
+■ ■ 
+■ ■ 
+■   
+■   
+
+Unique Polyomino 16:
+■ ■   
+■ ■ ■ 
+■     
+
+Unique Polyomino 17:
+■       
+■ ■ ■ ■ 
+■       
+
+Unique Polyomino 18:
+■     
+■     
+■     
+■ ■ ■ 
+
+Unique Polyomino 19:
+■   
+■   
+■   
+■   
+■ ■ 
+
+Unique Polyomino 20:
+■ ■     
+  ■ ■ ■ 
+  ■     
+
+Unique Polyomino 21:
+■ ■ 
+■ ■ 
+■ ■ 
+
+Unique Polyomino 22:
+■   
+■ ■ 
+■ ■ 
+  ■ 
+
+Unique Polyomino 23:
+■ ■ 
+■   
+■ ■ 
+■   
+
+Unique Polyomino 24:
+■ ■   
+■     
+■ ■ ■ 
+
+Unique Polyomino 25:
+■   ■ 
+■ ■ ■ 
+■     
+
+Unique Polyomino 26:
+■     
+■     
+■ ■ ■ 
+    ■ 
+
+Unique Polyomino 27:
+■ ■   
+  ■ ■ 
+  ■   
+  ■   
+
+Unique Polyomino 28:
+■     
+■     
+■ ■ ■ 
+  ■   
+
+Unique Polyomino 29:
+■ ■ ■ 
+■     
+■ ■   
+
+Unique Polyomino 30:
+■ ■ ■ 
+■ ■   
+■     
+
+Unique Polyomino 31:
+■ ■ ■   
+    ■ ■ 
+    ■   
+
+Unique Polyomino 32:
+■     
+■ ■   
+  ■   
+  ■ ■ 
+
+Unique Polyomino 33:
+■ ■   
+■ ■ ■ 
+    ■ 
+
+Unique Polyomino 34:
+■     
+■ ■ ■ 
+■   ■ 
+
+Unique Polyomino 35:
+■       
+■ ■ ■ ■ 
+  ■     
+
+Unique Polyomino 36:
+■       
+■ ■     
+  ■ ■ ■ 
+
+Unique Polyomino 37:
+■       
+■ ■ ■ ■ 
+      ■ 
+
+Unique Polyomino 38:
+■   
+■   
+■ ■ 
+■ ■ 
+
+Unique Polyomino 39:
+■ ■ ■   
+  ■ ■ ■ 
+
+Unique Polyomino 40:
+■     
+■ ■ ■ 
+■     
+■     
+
+Unique Polyomino 41:
+■   
+■ ■ 
+■   
+■ ■ 
+
+Unique Polyomino 42:
+■ ■     
+  ■ ■ ■ 
+    ■   
+
+Unique Polyomino 43:
+■ ■     
+  ■ ■   
+    ■ ■ 
+
+Unique Polyomino 44:
+■   
+■   
+■ ■ 
+■   
+■   
+
+Unique Polyomino 45:
+■   
+■ ■ 
+■ ■ 
+■   
+
+Unique Polyomino 46:
+■   ■ 
+■ ■ ■ 
+  ■   
+
+Unique Polyomino 47:
+■ ■ ■     
+    ■ ■ ■ 
+
+Unique Polyomino 48:
+■ ■ ■   
+■   ■ ■ 
+
+Unique Polyomino 49:
+■   
+■   
+■ ■ 
+  ■ 
+  ■ 
+
+Unique Polyomino 50:
+■ ■ 
+■   
+■   
+■   
+■   
+
+Unique Polyomino 51:
+■     
+■     
+■ ■ ■ 
+■     
+
+Unique Polyomino 52:
+■     
+■ ■ ■ 
+■ ■   
+
+Unique Polyomino 53:
+  ■   
+■ ■ ■ 
+  ■   
+  ■   
+
+Unique Polyomino 54:
+■ ■     
+  ■     
+  ■ ■ ■ 
+
+Unique Polyomino 55:
+■     
+■ ■ ■ 
+  ■   
+  ■   
+
+Unique Polyomino 56:
+■   
+■   
+■   
+■ ■ 
+■   
+
+Unique Polyomino 57:
+■     
+■ ■   
+  ■ ■ 
+    ■ 
+
+Unique Polyomino 58:
+■ ■   
+■ ■   
+  ■ ■ 
+
+Unique Polyomino 59:
+■     
+■ ■   
+  ■ ■ 
+  ■   
+
+Unique Polyomino 60:
+  ■     
+■ ■ ■ ■ 
+    ■   
+
